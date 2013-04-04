@@ -1,9 +1,10 @@
 FlashTeamRepo
 =============
 
-    ==================================================================================
+==================================================================================
   	
-		The team Consists of trainees in PODD corporation in Cebu City and are trainees in Unity, Flash and Graphics Team:
+	The team Consists of trainees in PODD corporation in Cebu City and are trainees in Unity,
+Flash and Graphics Team:
 
 		>Developer
 			Jeremy A. Pacurib
@@ -14,7 +15,8 @@ FlashTeamRepo
  		> Graphics
 			Jovanie James C. Bacaltos
 
-   ==================================================================================
+==================================================================================
+		
 		Title of the 1st Game:
 			The lost Treasure Hunter
 
@@ -61,7 +63,7 @@ FlashTeamRepo
 		pass through it, he needs to dodge/evade the thrown objects. The door will automatically open at exactly 30 seconds
 		before 2 minutes.
 
-		=====================================================================================
+=====================================================================================
 
 		Title of the 2nd Game: 
 			Planet Zen
@@ -89,7 +91,7 @@ FlashTeamRepo
 			-The game will be developed using Flash Develop for the game play
 		g.) Minimum System Requirements		
 			- iOS and Android 
-	-		Android 2.3 (Gingerbread)
+			-Android 2.3 (Gingerbread)
 		Features:
 			-Variety of weapons to choose
 			-Each alien has a unique ability
@@ -100,7 +102,7 @@ FlashTeamRepo
 			Planet Zen is a shooting and a strategy game. In order to survive, you must defend the Headquarters or the 
 		base for the alien invasion. Upgrade your weapons, plant mines and of course to shoot the aliens. Don't let the invaders
 		reach the Headquarters/base.
- 		=====================================================================================
+=====================================================================================
 
 		Title of the 3rd Game:
 			Defense Of The Kingdom
